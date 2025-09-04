@@ -28,7 +28,6 @@ public class HelloWorld {
                 System.out.println(sibling);
             }
         } else {
-            System.out.println("I don't have any siblings.");
         }
     }
 }
